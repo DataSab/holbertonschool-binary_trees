@@ -73,9 +73,6 @@ Files / Tasks | Description
 |15  |15-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 15-full				       |
 |16  |16-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 16-perfect                                |
 |17  |17-main.c 17-binary_tree_sibling.c 0-binary_tree_node.c -o 17-sibling                                    |                                                
-|18  |18-main.c 18-binary_tree_uncle.c 0-binary_tree_node.c -o 18-uncle                                        |        
-
-                  
-## **Authors** :writing_hand:
+|18  |18-main.c 18-binary_tree_uncle.c 0-binary_tree_node.c -o 18-uncle                                        |       
 
 
